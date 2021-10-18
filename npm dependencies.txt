@@ -1,0 +1,4 @@
+npm install -g firebase-tools
+npm i axios        
+npm i react-youtube
+npm i movie-trailer
